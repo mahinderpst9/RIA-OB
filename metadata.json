@@ -1,0 +1,7 @@
+{
+  "name": "RIA OB ",
+  "description": "RIA,a helpful assistant for the Onboarding process of Delivery Partners for Zomato",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
